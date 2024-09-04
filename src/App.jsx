@@ -48,7 +48,7 @@ const App = () => {
   return (
     <div>
       <Navigation />
-
+      
       {loading ? (
         <div className="loading">Loading...</div> // Loading animation
       ) : (
@@ -81,6 +81,7 @@ const App = () => {
             window.report = embeddedReport;
           }}
         />
+        
       )}
     </div>
   );
