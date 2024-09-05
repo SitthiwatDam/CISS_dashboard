@@ -44,7 +44,7 @@ The data-driven insights help inform safety regulations and enhance vehicle safe
 
 - **src/**: Contains the source code for the dashboard application, likely built with JavaScript/React.
 - **public/**: Contains static assets such as images and HTML files.
-- **QR_generator/**: Contains a QR code generator functionality, potentially for linking crash reports or case information.
+- **QR_generator/**: Contains a QR code generator functionality, potentially for linking to PowerBI web application hosted by AWS Amplify.
 - **.vscode/**: Visual Studio Code workspace settings.
 - **package.json**: Lists dependencies and scripts for managing the project using Node.js.
 - **yarn.lock** and **package-lock.json**: Dependency locks for the project, ensuring consistent builds.
